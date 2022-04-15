@@ -1,7 +1,26 @@
 .out-1 {
     margin: 0 auto;
-    width: 800px;
-    height: 400px;
+    width: 400px;
+    height: 100px;
     border: 1px solid black;
     background: rgb(104, 188, 125);
+}
+.out-2 {
+    margin: 0 auto;
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+    background: rgb(106, 134, 42);
+}
+.out-3 {
+    margin: 0 auto;
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+    background: rgb(59, 146, 183);
+}
+.btn {
+    padding: 5px;
+    display: block;
+    margin: 0 auto;
 }
