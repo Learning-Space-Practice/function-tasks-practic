@@ -221,7 +221,6 @@ function t10() {
     for(let i = 0; i < ar10.length; i++){
         if(typeof ar10[i] === 'number'){
             ar10_res.push(ar10[i])
-
             showArr()
         }
     }
